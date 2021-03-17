@@ -1,0 +1,2 @@
+.app-home{min-width:100px;position:absolute;top:45%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);text-align:center}.app-home .img-wrap{display:flex;align-items:flex-end}.app-home img{width:100%;max-width:2.4rem;cursor:pointer}.app-home .img-b{flex:11 1}.app-home .img-s{flex:3 1}.app-home .img-s img{-webkit-animation:toT 2s infinite;animation:toT 2s infinite;position:relative}.app-home p{margin-top:.5rem}@-webkit-keyframes toT{0%{top:-.5rem}to{top:0}}@keyframes toT{0%{top:-.5rem}to{top:0}}
+/*# sourceMappingURL=9.4b068788.chunk.css.map */
